@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26ed441f-cd16-41c0-a39a-89ff7720ba2c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Array_2d/Prefix_1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Array_2d/Prefix_2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Array_2d/Prefix_3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Array_2d/Question_6.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Array_2d/pre.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/ArraysQuestion/FindAllIndex.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/ArraysQuestion/FindElem.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/ArraysQuestion/IsSorted.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/ArraysQuestion/RBS.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Ease_Questions/ProductOfDigits.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Ease_Questions/Que_1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Ease_Questions/ReverseNum.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Ease_Questions/SumFactorial.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Ease_Questions/SumOfDigits.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/LeetCodeQue/Indices.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/LeetCodeQue/PowerNum.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/LeetCodeQue/PrintBrackets.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/LeetCodeQue/TableOfANumber.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Part_1/CountWaya.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Part_1/FactorialNumber.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Part_1/FibonachiNumber.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Part_1/Power.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion/Patterns/Pattern_1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/DSAnumberSystem/CountSetBit.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/DSAnumberSystem/DuplicateEven.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/DSAnumberSystem/Test.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/Linear_BinarySearch/CountOccurance.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/Linear_BinarySearch/CountSetBit.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/Linear_BinarySearch/FindX.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/Linear_BinarySearch/Square.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/Linear_BinarySearch/lastOccurance.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/SortingArr/DecendingOrder.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/SortingArr/Insertion.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/SortingArr/IterationCount.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/SortingArr/PassRequire.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/AssignmentSol/SortingArr/SelectionSort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/NumberSystem/BitOperation/BitAddition.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/NumberSystem/BitOperation/Bit_1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/NumberSystem/BitOperation/FindUnique.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/NumberSystem/BitOperation/MagicNumber.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/NumberSystem/BitOperation/NoOfDegits.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/NumberSystem/BitOperation/XORrange.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/NumberSystem/BitOperation/powerOf2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/Prectice_Questions/Interview_Questions/Que_1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/Prectice_Questions/Interview_Questions/Que_2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/Prectice_Questions/Interview_Questions/Que_3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/Prectice_Questions/Interview_Questions/Que_4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/prectice/BinarySearch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/prectice/BubbleSort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/prectice/InsertionSort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/prectice/OrderBiSearch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/prectice/SelectionSort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/prectice/biSearch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Binary_Search/prectice/biSearch_2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Linear_Searching/Prectice/Searching/Linear_Searching/Prectice/Linear_Search_1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/Linear_Searching/Prectice/Searching/Linear_Searching/Prectice/Linear_srch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Time_Space_Complexity/Complexity.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Time_Space_Complexity/palindrome.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="2U8bQXBl20l5rVD1BYjbaB4PBmU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/asus/OneDrive/Desktop/DSA/src/Main.java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Indices">
+    <configuration name="FindAllIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.ArraysQuestion.FindAllIndex" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.ArraysQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.LeetCodeQue.Indices" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.LeetCodeQue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.LeetCodeQue.PowerNum" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.LeetCodeQue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.LeetCodeQue.PrintBrackets" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.LeetCodeQue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2d.Question_2" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Indices" />
+        <item itemvalue="Application.PowerNum" />
+        <item itemvalue="Application.Question_2" />
+        <item itemvalue="Application.PrintBrackets" />
+        <item itemvalue="Application.FindAllIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ed441f-cd16-41c0-a39a-89ff7720ba2c" name="Changes" comment="" />
+      <created>1692324142229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692324142229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="array.length" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
